@@ -5,12 +5,12 @@ Este projeto é uma página HTML simples e semântica que apresenta informaçõe
 ## 🧱 Estrutura
 
 O código está dividido em três colunas principais utilizando **CSS Grid**:
-- **Sidebar (esquerda):** Navegação lateral.
+- **Aside (esquerda):** Navegação lateral.
 - **Conteúdo principal:** Informações sobre o jogo e imagem.
-- **Âncoras (direita):** Navegação interna (estrutura de tópicos).
+- **Article:** Navegação interna (estrutura de tópicos).
 
 ## 🖥 Tecnologias utilizadas
 
-- HTML5 com semântica
+- HTML semântico
 - CSS
 - Layout com `CSS Grid`
